@@ -1,0 +1,2 @@
+include ':app'
+include ':demo_zhy_15_weixin_6_0_ui4'

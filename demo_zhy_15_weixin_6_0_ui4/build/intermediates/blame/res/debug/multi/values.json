@@ -1,0 +1,372 @@
+[
+    {
+        "outputFile": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\attr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 40,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 42,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\attr.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 43,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 39,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\attr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 40,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 47,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\attr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 48,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 57,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 55,
+                    "endOffset": 488
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 493,
+                    "endColumn": 41,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 41,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endColumn": 50,
+                    "endOffset": 581
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 50,
+                        "endOffset": 238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 586,
+                    "endColumn": 44,
+                    "endOffset": 626
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 96,
+                        "endColumn": 44,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 631,
+                    "endColumn": 50,
+                    "endOffset": 677
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 141,
+                        "endColumn": 50,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 682,
+                    "endColumn": 43,
+                    "endOffset": 721
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 243,
+                        "endColumn": 43,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 726,
+                    "endColumn": 44,
+                    "endOffset": 766
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 44,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 771,
+                    "endColumn": 39,
+                    "endOffset": 806
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 39,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 811,
+                    "endColumn": 43,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 416,
+                        "endColumn": 43,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endColumn": 39,
+                    "endOffset": 890
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 460,
+                        "endColumn": 39,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 895,
+                    "endColumn": 36,
+                    "endOffset": 927
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 500,
+                        "endColumn": 36,
+                        "endOffset": 532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 932,
+                    "endColumn": 41,
+                    "endOffset": 969
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 374,
+                        "endColumn": 41,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 974,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1420
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

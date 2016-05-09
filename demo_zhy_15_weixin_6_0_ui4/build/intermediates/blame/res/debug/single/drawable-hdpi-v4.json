@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_settings_normal.png",
+        "source": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-hdpi\\tab_settings_normal.png"
+    },
+    {
+        "merged": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_empty_view.png",
+        "source": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-hdpi\\base_empty_view.png"
+    },
+    {
+        "merged": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_pics_ic_back_normal.png",
+        "source": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-hdpi\\biz_pics_ic_back_normal.png"
+    },
+    {
+        "merged": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_address_normal.png",
+        "source": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-hdpi\\tab_address_normal.png"
+    },
+    {
+        "merged": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_weixin_normal.png",
+        "source": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-hdpi\\tab_weixin_normal.png"
+    },
+    {
+        "merged": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_pics_ic_back_pressed.png",
+        "source": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-hdpi\\biz_pics_ic_back_pressed.png"
+    },
+    {
+        "merged": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_contact_normal.png",
+        "source": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-hdpi\\mm_title_btn_contact_normal.png"
+    },
+    {
+        "merged": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_find_frd_normal.png",
+        "source": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-hdpi\\tab_find_frd_normal.png"
+    }
+]

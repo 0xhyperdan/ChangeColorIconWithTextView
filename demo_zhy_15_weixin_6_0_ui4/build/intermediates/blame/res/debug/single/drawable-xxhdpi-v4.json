@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ofm_group_chat_icon.png",
+        "source": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-xxhdpi\\ofm_group_chat_icon.png"
+    },
+    {
+        "merged": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\actionbar_search_icon.png",
+        "source": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-xxhdpi\\actionbar_search_icon.png"
+    },
+    {
+        "merged": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ofm_add_icon.png",
+        "source": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-xxhdpi\\ofm_add_icon.png"
+    },
+    {
+        "merged": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ofm_qrcode_icon.png",
+        "source": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-xxhdpi\\ofm_qrcode_icon.png"
+    },
+    {
+        "merged": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\actionbar_add_icon.png",
+        "source": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-xxhdpi\\actionbar_add_icon.png"
+    },
+    {
+        "merged": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ofm_feedback_icon.png",
+        "source": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-xxhdpi\\ofm_feedback_icon.png"
+    }
+]

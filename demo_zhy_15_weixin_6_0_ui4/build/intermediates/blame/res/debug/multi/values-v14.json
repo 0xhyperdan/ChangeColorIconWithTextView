@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "E:\\C_Workspace\\ChangeColorIconWithTextView\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 602
+                    }
+                }
+            }
+        ]
+    }
+]
