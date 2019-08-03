@@ -2,8 +2,9 @@
 
 🦐 仿微信Tab滑动变色—鸿神博客
 
-#核心类：
-<pre><code>
+# 核心类：
+
+```java
 package qiqi.love.you.view;
 
 import android.content.Context;
@@ -234,4 +235,4 @@ public class ChangeColorIconView extends View {
     }
 
 }
-</code></pre>
+```
